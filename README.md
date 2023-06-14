@@ -1,0 +1,1 @@
+# edueasy-django
